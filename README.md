@@ -13,7 +13,7 @@
         The resulting coordinates after n iterations and m steps
 
 ### Plot
-    Plugging in plots on Desmos:
+    Plugging in plots on Matlab:
         
 
 
