@@ -14,8 +14,8 @@
 
 ### Plot
     Plugging in plots on Matlab:
-    ![](images/plot.png)
-        
+    
+![](images/plot.png)
 
 
 
