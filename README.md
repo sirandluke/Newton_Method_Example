@@ -14,6 +14,7 @@
 
 ### Plot
     Plugging in plots on Matlab:
+    ![](images/Screen%20Shot%202020-04-19%20at%207.34.33%20PM.png)
         
 
 
