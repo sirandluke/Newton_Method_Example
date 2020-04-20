@@ -14,7 +14,7 @@
 
 ### Plot
     Plugging in plots on Matlab:
-    ![](images/plot.png)
+    ![](Newton_Method_Example/images/plot.png)
         
 
 
